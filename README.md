@@ -1,6 +1,5 @@
-# 907_group12_project2
+# Online Ordering System
 
-Phase 4 Outline
 
 **Manager GUI**</br>
 
@@ -8,14 +7,14 @@ Phase 4 Outline
 > Implementing help bottons and recommendations </br>
 
 run with: </br>
-> javac MangerGUI_product_entree.java </br>
-> javac MangerGUI_product_side.java </br>
-> javac MangerGUI_product_drink.java </br>
-> javac MangerGUI_product_dessert.java </br>
-> javac MangerGUI_product.java </br>
-> javac MangerGUI_dashboard.java </br>
-> javac MangerGUI_aacount.java </br>
-> javac MangerGUI.java </br>
+> javac ManagerGUI_product_entree.java </br>
+> javac ManagerGUI_product_side.java </br>
+> javac ManagerGUI_product_drink.java </br>
+> javac ManagerGUI_product_dessert.java </br>
+> javac ManagerGUI_product.java </br>
+> javac ManagerGUI_dashboard.java </br>
+> javac ManagerGUI_account.java </br>
+> javac ManagerGUI.java </br>
 > javac testdriver.java </br>
 > java -cp ".;postgresql-42.2.8.jar" testdriver </br>
 </br>
@@ -46,3 +45,13 @@ test past orders and login with customer: </br>
 > password: pswd </br>
 > customerid: 160983 </br>
 </br>
+
+
+**Manager GUI Screeshots**</br>
+https://drive.google.com/file/d/1QNOyJ-sHtVG5zKXGbiWHzlnWgJ-Zlxay/view?usp=sharing
+https://drive.google.com/file/d/1FWVg_nB4PwQbIQU-1_VCAAcj-Z35jOpK/view?usp=sharing
+https://drive.google.com/file/d/1iwIGXYw1BTkfs-pf8-3FwddmYdlgTQef/view?usp=sharing
+
+**Customer GUI Screeshots**</br>
+https://drive.google.com/file/d/118tNRs7d11ruPK1e23Qyk0LfTBzdaLJN/view?usp=sharing
+https://drive.google.com/file/d/1XAMXWyp9NuiCtJVpiApHP5QoLdP4cKl2/view?usp=sharing
