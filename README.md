@@ -1,5 +1,9 @@
 # Online Ordering System
 
+The ordering system provide a customized experience for two different groups of users: restaurant customers and restaurant managers.
+Restaurant customers will be able to place orders are customized specifically to them.  The system will also provide recommendations for customers to choose from based on past ordering history.
+Restaurant managers will be able to adjust menu pricing and offerings.  The system will also provide recommendations of adjustments for managers based on past ordering history.
+
 
 **Manager GUI**</br>
 
