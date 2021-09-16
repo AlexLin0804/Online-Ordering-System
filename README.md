@@ -52,10 +52,12 @@ test past orders and login with customer: </br>
 
 
 **Manager GUI Screeshots**</br>
-https://drive.google.com/file/d/1QNOyJ-sHtVG5zKXGbiWHzlnWgJ-Zlxay/view?usp=sharing
-https://drive.google.com/file/d/1FWVg_nB4PwQbIQU-1_VCAAcj-Z35jOpK/view?usp=sharing
-https://drive.google.com/file/d/1iwIGXYw1BTkfs-pf8-3FwddmYdlgTQef/view?usp=sharing
+<img width="50%" alt="Landing" src="https://user-images.githubusercontent.com/74691966/133677155-8aed36f2-1813-4786-9acc-e366cb29d460.png">
+<img width="50%" alt="Product" src="https://user-images.githubusercontent.com/74691966/133677177-6c625461-fb6f-42fa-9635-eb0573d4da00.png">
+<img width="50%" alt="Entree" src="https://user-images.githubusercontent.com/74691966/133677191-48db65e1-f976-4861-b4b1-7f2b21e16d41.png">
+
 
 **Customer GUI Screeshots**</br>
-https://drive.google.com/file/d/118tNRs7d11ruPK1e23Qyk0LfTBzdaLJN/view?usp=sharing
-https://drive.google.com/file/d/1XAMXWyp9NuiCtJVpiApHP5QoLdP4cKl2/view?usp=sharing
+<img width="50%" alt="Screen Shot 2021-04-09 at 5 40 22 PM" src="https://user-images.githubusercontent.com/74691966/133677205-dfd5714e-6429-4ea4-8809-d611dd816b0f.png">
+<img width="50%" alt="Screen Shot 2021-04-09 at 5 40 31 PM" src="https://user-images.githubusercontent.com/74691966/133677211-dce23cc3-4b70-414c-a174-4d43137c591e.png">
+
